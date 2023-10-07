@@ -1,4 +1,6 @@
 # Movie Recommender
+**Personal project**  
+
 This is web service API that provides extensive information about a wide range of movies and offers movie recommendations based on various filters and comparisons. It is designed to assist users in exploring and discovering movies that match their preferences and interests.
 
 ## Key Features: ##
