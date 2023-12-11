@@ -10,9 +10,9 @@ Filter movies by specific criteria such as genre, release year, original languag
 
 **Movie Recommendations:**
 
-Obtain personalized movie recommendations by comparing a selected movie with others in the database.
+Obtain personalized movie recommendations by comparing a selected movie with others in the database using.
 Recommendations can be tailored based on filters like minimum rating, minimum vote count, and minimum release year.
-The API suggests similar movies to the one provided, helping users discover films they might enjoy.
+The API suggests similar movies to the one provided, helping users discover films they might enjoy. This feature is based on cosine similarities of each movie data.
 
 
 **Admin Functionality:**
